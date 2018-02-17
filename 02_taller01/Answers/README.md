@@ -9,3 +9,4 @@ Student:
 
 Gabriel Andrés Espinosa Barrios
 
+20180216_21:08: Edition made in the Jupyther Notebook.
