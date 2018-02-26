@@ -10,3 +10,4 @@ Student:
 Gabriel Andrés Espinosa Barrios
 
 20180216_21:08: Edition made in the Jupyther Notebook.
+20180217_18:20: Test to import and upload *.py, and *.ipynb files sync jupyter and github.
