@@ -6,6 +6,7 @@ University of the Andes. Cod:200311728 Id:110279864X.
 Python files AND commands for the Second WorkShop e-Kart Simulator.
 
 Student:
-
 Gabriel Andrés Espinosa Barrios
+
+The link of the Answers files and results are in : https://github.com/gabrielespinosa/andresgmComputingTools/tree/master/03_taller02/Answers
 
