@@ -11,11 +11,13 @@ Student: Gabriel Andrés Espinosa Barrios.
 
 The link of the Answers files and folders results are in: https://github.com/gabrielespinosa/andresgmComputingTools/tree/master/05_taller04/Answers
 
-Background Folder:  ~/Answers/20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes
+Matlab Background Folder:  ~/Answers/20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes
 
-## 0 Solution PDF Document  "20180319StandarFourierSeriesFourierTransformsPythonApplication.pdf"
+## 0 Solution PDF Document: 
+"20180319StandarFourierSeriesFourierTransformsPythonApplication.pdf"
 
-## 1 Folder Background Feedback 20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes = 20050130_20060214AnálisisNúmericoBackgroundFeedbackUniandes:
+## 1 Folder Background Feedback:
+20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes = 20050130_20060214AnálisisNúmericoBackgroundFeedbackUniandes:
 
 "Interpolación de Lagrange y Series de Fourier" files: 20060214fescalonfourier2.m AND 20060214fescalonfouriernormal.m  
 
