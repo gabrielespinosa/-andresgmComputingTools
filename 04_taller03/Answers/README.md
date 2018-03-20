@@ -12,3 +12,5 @@ Student: Gabriel Andrés Espinosa Barrios
 The link of the Answers files and results are in : https://github.com/gabrielespinosa/andresgmComputingTools/tree/master/04_taller03/Answers 
 
 Special Folders ~/Answers/VBS_049 AND ~/Answers/VBS_051
+
+20180312_21:40: The link of the Answers files and results are in : https://github.com/gabrielespinosa/andresgmComputingTools/tree/master/04_taller03/Answers
