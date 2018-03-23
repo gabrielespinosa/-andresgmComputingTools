@@ -1,4 +1,4 @@
-<!--- 20180319AnswersfourthWorkShopTaller04 first feedback --> 
+﻿<!--- 20180319AnswersfourthWorkShopTaller04 first feedback --> 
 20180319: GAEB(Gabriel Andrés Espinosa Barrios) Returning/re-entry Engineering PhD Graduate Student. 
 
 University of the Andes(Universidad de los Andes). Cod:200311728 Id:110279864X. Bogota(Bogotá) D.C., Colombia.
@@ -13,11 +13,7 @@ The link of the Answers files and folders results are in: https://github.com/gab
 
 Matlab Background Folder:  ~/Answers/20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes
 
-<<<<<<< HEAD
-## 0 Solution PDF Document:  
-=======
 ## 0 Solution PDF Document: 
->>>>>>> 629ba99efd4b5d1010e364b097685353b0072c75
 "20180319StandarFourierSeriesFourierTransformsPythonApplication.pdf"
 
 ## 1 Folder Background Feedback:
@@ -40,3 +36,24 @@ Computing Tools Matlab Fourier Applications: Fourier Series, Fourier Transforms(
 Analysis, Section 13.1 Basics of Fourier Series and the Fourier Transform <!--- 20180319_582.pdf page 24  -->
 
 ## 3 Python codes, files, folders, commands AND *PDF for the Fourth WorkShop.
+
+
+
+
+<!--- 20180323Github or notebooks azure erros "HEAD"  
+
+
+<<<<<<< HEAD
+## 0 Solution PDF Document:  
+=======
+## 0 Solution PDF Document: 
+>>>>>>> 629ba99efd4b5d1010e364b097685353b0072c75
+"20180319StandarFourierSeriesFourierTransformsPythonApplication.pdf"
+
+## 1 Folder Background Feedback:
+20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes = 20050130_20060214AnálisisNúmericoBackgroundFeedbackUniandes:
+
+"Interpolación de Lagrange y Series de Fourier" files: 20060214fescalonfourier2.m AND 20060214fescalonfouriernormal.m  
+
+## 2 References(Book Related References)
+--> 
