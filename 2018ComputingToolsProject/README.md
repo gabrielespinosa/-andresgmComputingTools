@@ -1,0 +1,1 @@
+# The main goal, target, of this project is to obtain an algorithm and methodology for the surface NURBS of the bone, and Solid Volumetric NURBS file for Stress - Strain simulations of the bones applying python codes.
