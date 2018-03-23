@@ -13,7 +13,11 @@ The link of the Answers files and folders results are in: https://github.com/gab
 
 Matlab Background Folder:  ~/Answers/20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes
 
+<<<<<<< HEAD
 ## 0 Solution PDF Document:  
+=======
+## 0 Solution PDF Document: 
+>>>>>>> 629ba99efd4b5d1010e364b097685353b0072c75
 "20180319StandarFourierSeriesFourierTransformsPythonApplication.pdf"
 
 ## 1 Folder Background Feedback:
