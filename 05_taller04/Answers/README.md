@@ -7,8 +7,12 @@ Python files, folders, commands AND *PDF for the Fourth WorkShop.
 
 Student: Gabriel Andrés Espinosa Barrios.
 
+The link of the Answers files and folders results are in: https://github.com/gabrielespinosa/andresgmComputingTools/tree/master/05_taller04/Answers
+
 # Join Matlab Functions with Python: Standar Fourier Series, Fourier Transforms; with Python Application.
 
+
+Matlab Background Folder:  ~/Answers/20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes
 
 <!--- 20180331_20180324_Edition of number.~"1." after the ## Section adding the "." point. -->
 ## 0 Solution PDF Document
