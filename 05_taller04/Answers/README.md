@@ -1,7 +1,5 @@
-﻿<!--- 20180319AnswersfourthWorkShopTaller04 first feedback --> 
-20180319: GAEB(Gabriel Andrés Espinosa Barrios) Returning/re-entry Engineering PhD Graduate Student. 
-
-University of the Andes(Universidad de los Andes). Cod:200311728 Id:110279864X. Bogota(Bogotá) D.C., Colombia.
+<!--- 20180319AnswersfourthWorkShopTaller04 first feedback -->
+20180319: GAEB(Gabriel Andrés Espinosa Barrios) Returning/re-entry Engineering PhD Graduate Student. University of the Andes(Universidad de los Andes). Cod:200311728 Id:110279864X. Bogota(Bogotá) D.C., Colombia.
 
 #  COMPUTING TOOLS - FOURTH WORKSHOP-TALLER 4
 
@@ -9,21 +7,29 @@ Python files, folders, commands AND *PDF for the Fourth WorkShop.
 
 Student: Gabriel Andrés Espinosa Barrios.
 
-The link of the Answers files and folders results are in: https://github.com/gabrielespinosa/andresgmComputingTools/tree/master/05_taller04/Answers
+# Join Matlab Functions with Python: Standar Fourier Series, Fourier Transforms; with Python Application.
 
-Matlab Background Folder:  ~/Answers/20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes
 
-## 0 Solution PDF Document: 
-"20180319StandarFourierSeriesFourierTransformsPythonApplication.pdf"
+<!--- 20180331_20180324_Edition of number.~"1." after the ## Section adding the "." point. -->
+## 0 Solution PDF Document
 
-## 1 Folder Background Feedback:
-20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes = 20050130_20060214AnálisisNúmericoBackgroundFeedbackUniandes:
+
+
+1. "20180319StandarFourierSeriesFourierTransformsPythonApplication.pdf"
+
+
+
+## 1 Folder Background Feedback 
+
+
+1. 20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes = 20050130_20060214AnálisisNúmericoBackgroundFeedbackUniandes:
 
 "Interpolación de Lagrange y Series de Fourier" files: 20060214fescalonfourier2.m AND 20060214fescalonfouriernormal.m  
 
 ## 2 References(Book Related References)
 
 <!--- 20180319AnswersfourthWorkShopTaller04 General Math Fourier Background  --> 
+
 General Math Fourier Background:
 1. Folland, G. B. Fourier analysis and its applications (Vol. 4). American Mathematical Soc, 1992.
 
@@ -37,8 +43,19 @@ Analysis, Section 13.1 Basics of Fourier Series and the Fourier Transform <!--- 
 
 ## 3 Python codes, files, folders, commands AND *PDF for the Fourth WorkShop.
 
+<!--- 20180331 Github or notebooks azure erros "HEAD" AND >>>>>>>  -->
+<!--- 20180331_20180324_Edition of number.~"1." after the ## Section adding the "." point. before text:
 
+## 0 Solution PDF Document
+"20180319StandarFourierSeriesFourierTransformsPythonApplication.pdf"
 
+## 1 Folder Background Feedback 
+
+20050130_20060214AnalisisNumericoBackgroundFeedbackUniandes = 20050130_20060214AnálisisNúmericoBackgroundFeedbackUniandes:
+
+>>>>>>> 3fbce9ae3dae70493bfde9e5eb2eee2466e0d9e7
+
+-->
 
 <!--- 20180323Github or notebooks azure erros "HEAD"  
 
