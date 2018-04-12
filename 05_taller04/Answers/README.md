@@ -43,7 +43,7 @@ General Math Fourier Background:
 Computing Tools Matlab Fourier Applications: Fourier Series, Fourier Transforms(Join with Taylor's series). 
    
 3. J. Nathan Kutz, Data-Driven Modeling & Scientific Computation: Methods for Complex Systems & Big Data, OUP Oxford, 2013. (Class Notes)Part III Computational Methods for Data
-Analysis, Section 13.1 Basics of Fourier Series and the Fourier Transform <!--- 20180319_582.pdf page 24  -->
+Analysis, Section 13.1 Basics of Fourier Series and the Fourier Transform <!--- 20180319_582.pdf page 24  --> <!--- 20180410 Correcion que hago en 05_taller04_READMEmd Washington(Department of Applied Mathematics at the University of Washington in Seattle) Palabra Anterior="Washinton"  -->
 
 ## 3 Python codes, files, folders, commands AND *PDF for the Fourth WorkShop.
 
